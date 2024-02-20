@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class FlowerShop {
     public static void main(String[] args) {
-        int size = 3;
+        int size = 10;
         Flower[] flowerArr = new Flower[size];
         Scanner scanner = new Scanner(System.in);
 
